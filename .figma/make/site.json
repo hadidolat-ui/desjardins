@@ -1,0 +1,11 @@
+{
+  "title": "TD BCS",
+  "description": "Enables Business Tangerine Bank users to view and manage business credit info with an interactive dashboard integrating Equifax data seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

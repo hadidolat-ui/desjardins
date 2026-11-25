@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="671" height="163.659" viewBox="0 0 671 163.659" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="graph">
+<path id="line" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 163.659H671V0.987539L334.5 39.4875L0 100.488" fill="url(#paint0_linear_0_508)"/>
+<path id="line_2" d="M668.369 1.98754L334 39.4875L0.5 99.9875" stroke="#007298" stroke-width="4"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_508" x1="-660.992" y1="36.4876" x2="-660.992" y2="163.659" gradientUnits="userSpaceOnUse">
+<stop stop-color="#007298"/>
+<stop offset="1" stop-color="#007298" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

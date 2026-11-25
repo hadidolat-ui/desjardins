@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="168" height="91.5556" viewBox="0 0 168 91.5556" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="donut">
+<path id="Base" d="M164 87.5556C164 41.4091 128.183 4.00001 84 4.00001C39.8172 4.00001 4 41.4091 4 87.5556" stroke="#E7E7E7" stroke-width="8" stroke-linecap="round"/>
+<path id="gradient" d="M4 87.5556C4 69.5904 9.54389 52.1037 19.8095 37.6887C30.075 23.2738 44.5156 12.6984 60.9894 7.531C77.4632 2.36362 95.0929 2.87945 111.264 9.00197C127.435 15.1245 141.286 26.5276 150.763 41.5202" stroke="url(#paint0_linear_0_24)" stroke-width="8" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_24" x1="141.561" y1="22.6441" x2="7.59486" y2="83.1056" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E8002A"/>
+<stop offset="0.28125" stop-color="#FF9633"/>
+<stop offset="0.708333" stop-color="#FFD332"/>
+<stop offset="1" stop-color="#407E25"/>
+</linearGradient>
+</defs>
+</svg>
